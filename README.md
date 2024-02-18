@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=30&duration=3500&pause=200&color=09FF17&center=true&random=false&width=800&height=70&lines=Hello!+;I'm+Kirill+Ivanov!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=600&size=30&duration=3500&pause=200&color=09FF17&center=true&random=false&width=800&height=70&lines=Hello!+;I'm+Akir0!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ---
 # 👋 Hi, I’m Kirill Ivanov!
 - 👀 I’m interested in developing distributed multiservice systems
