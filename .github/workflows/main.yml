@@ -52,7 +52,7 @@ jobs:
           user: akir0
           base: ""
           plugin_projects: yes
-          plugin_projects_repositories: akir0\Test_React_App
+          plugin_projects_repositories: akir0/metrics/projects/1
           plugin_projects_limit: 0
           config_timezone: Europe/Paris
       - name: 📅 Isometric commit calendar
