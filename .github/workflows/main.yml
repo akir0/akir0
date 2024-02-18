@@ -43,18 +43,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-      - name: Personal projects
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.projects.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          user: akir0
-          base: ""
-          plugin_projects: yes
-          plugin_projects_repositories: akir0/metrics/projects/1
-          plugin_projects_limit: 0
-          config_timezone: Europe/Paris
       - name: 📅 Isometric commit calendar
         category: github
         description: |
