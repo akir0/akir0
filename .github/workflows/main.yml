@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          target_branch: output 
+          build_dir: dist
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
