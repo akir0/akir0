@@ -22,8 +22,9 @@ jobs:
           # plugin_music: yes
           # plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           # plugin_music_limit: 2
+          plugin_isocalendar: yes
           plugin_topics: yes
-          plugin_topics_mode: mastered
+          plugin_topics_mode: icons
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: no
@@ -44,13 +45,3 @@ jobs:
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 3
-
-      - name: Half-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
