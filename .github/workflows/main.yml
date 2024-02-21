@@ -55,7 +55,6 @@ jobs:
           plugin_projects_repositories: akir0/metrics/projects/1
           plugin_projects_limit: 0
           config_timezone: Europe/Paris
-          
       - name: 📅 Isometric commit calendar
         category: github
         description: |
