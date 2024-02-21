@@ -49,10 +49,10 @@ jobs:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
-          user: akir0
+          user: lowlighter
           base: ""
-          plugin_projects: no
-          plugin_projects_repositories: akir0/metrics/projects/1
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
           plugin_projects_limit: 0
           config_timezone: Europe/Paris
       - name: 📅 Isometric commit calendar
@@ -79,8 +79,8 @@ jobs:
             description: |
               Time range
         
-              - `half-year`: 180 days
-              - `full-year`: 1 year
+              - half-year: 180 days
+              - full-year: 1 year
             type: string
             default: half-year
             values:
