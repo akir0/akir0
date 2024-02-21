@@ -45,7 +45,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 3
-          
+
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -53,3 +53,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
