@@ -6,6 +6,5 @@
 - 📫 How to reach me [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andr33v14) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill.andreevich.dev@gmail.com)
 
 ![Metrics](/metrics.svg)
-![Metrics](/metrics.additional.svg)
 
 ![Bye-banner](https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Come%20Again!&section=footer&descAlign=50&animation=fadeIn)

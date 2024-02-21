@@ -17,7 +17,7 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
-          base: "header, repositories"
+          base: "header, repositories, metadata"
           plugin_lines: yes
           # plugin_music: yes
           # plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
@@ -34,14 +34,6 @@ jobs:
           # plugin_languages_skipped: lowlighter
           # plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-
-      - name: Personal metrics (additional)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.additional.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          base: "metadata"
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 3
