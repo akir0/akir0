@@ -7,5 +7,6 @@
 
 ![Metrics](/metrics.svg)
 ![Metrics](/metrics.additional.svg)
+![Metrics](/metrics.plugin.isocalendar.svg)
 
 ![Bye-banner](https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Come%20Again!&section=footer&descAlign=50&animation=fadeIn)
