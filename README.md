@@ -5,6 +5,6 @@
 - 💞️ I’m looking for a job with a cool team to work together on projects and share experiences
 - 📫 How to reach me [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andr33v14) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill.andreevich.dev@gmail.com)
 
-![Metrics](https://github.com/AndreiTka4iov/akir0/blob/output/github-metrics.svg)
+![Metrics](https://github.com/akir0/akir0/blob/output/github-metrics.svg)
 
 ![Bye-banner](https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Come%20Again!&section=footer&descAlign=50&animation=fadeIn)
