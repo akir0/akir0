@@ -9,6 +9,10 @@ on:
 jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v3
